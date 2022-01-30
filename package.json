@@ -86,7 +86,7 @@
 				"tsimporter.doubleQuotes": {
 					"type": "boolean",
 					"default": false,
-					"description": "Specifies wether to use double quotes"
+					"description": "Specifies whether to use double quotes"
 				},
 				"tsimporter.spaceBetweenBraces": {
 					"type": "boolean",
@@ -116,7 +116,7 @@
 				"tsimporter.preferRelative": {
 					"type": "boolean",
 					"default": false,
-					"description": "When true shorter relative imports will be be prefered instead of absolute imports"
+					"description": "When true shorter relative imports will be be preferred instead of absolute imports"
 				}
 			}
 		}
